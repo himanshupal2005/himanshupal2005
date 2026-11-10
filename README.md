@@ -1,430 +1,215 @@
-# 👋 Hey, I'm Himanshu Pal
+<!--
+  Himanshu Pal — GitHub profile dashboard
+  Resume-aligned refresh: 10 November 2026
+  Live widgets use public GitHub data; resume impact metrics are labelled separately.
+-->
 
-### `AI Automation • ERP Development • Business Analytics`
+<div align="center">
 
-<p align="center">
-  <b>Building intelligent systems that turn business processes into automated workflows.</b>
-</p>
+# Himanshu Pal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himanshuupal">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:himanshuupal2005@gmail.com">Email</a>
-</p>
+### AI Automation · Business Analytics · ERP Engineering
 
----
+**Building intelligent systems that turn business processes into measurable outcomes.**
 
-## 📊 Developer Dashboard
+<a href="https://himanshuupal-portfolio.vercel.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/himanshuupal">LinkedIn</a> ·
+<a href="mailto:himanshuupal2005@gmail.com">Email</a>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                     HIMANSHU PAL                             │
-│              AI AUTOMATION • ERP • ANALYTICS                │
-├──────────────────────┬───────────────────────────────────────┤
-│ 🎓 Education         │ Jagran Lakecity University            │
-│ 📍 Focus             │ Business Analytics + Finance          │
-│ 🤖 Current Role      │ Harness Trainer — CoverKraft         │
-│ ⚙️ Workflows         │ 20+ Reusable Automation Workflows     │
-│ 🚀 Quotation Speed   │ 93% Faster                            │
-│ 🔄 Lifecycle         │ 90% Automated                         │
-│ 📧 Communications    │ 100+ Automated                        │
-│ 📊 Reporting         │ 15+ Workflows                         │
-│ ⚡ Repetitive Work   │ 95% Reduction                         │
-└──────────────────────┴───────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Business%20Analytics-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-ERP%20Systems-0F766E?style=flat-square" />
+
+</div>
 
 ---
 
-# 🧑‍💻 About Me
+## Professional snapshot
 
-I'm a **Business Analytics student and technology builder** focused on the intersection of:
+I'm a **Business Management Studies undergraduate specialising in Business Analytics and Finance** at Jagran Lakecity University. I work at the intersection of AI application development, workflow automation, data analytics and business systems.
 
-```text
-             BUSINESS
-                │
-                ▼
-          PROCESS DESIGN
-                │
-        ┌───────┴───────┐
-        ▼               ▼
-       DATA            AI
-        │               │
-        └───────┬───────┘
-                ▼
-           AUTOMATION
-                │
-                ▼
-          BUSINESS IMPACT
-```
+My recent work includes LLM-based applications, Retrieval-Augmented Generation (RAG), multi-agent orchestration, API integrations, transaction-oriented ERP data models and analytics dashboards.
 
-My work focuses on **AI workflow automation, ERP development, business process automation, AI agents, API integration, and data-driven decision making**.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I build
+
+- LLM applications and RAG workflows
+- AI agents and reusable automation
+- API-connected business processes
+- Inventory and service ERP systems
+- Data pipelines, analysis and BI dashboards
+
+</td>
+<td width="50%" valign="top">
+
+### Core toolkit
+
+- **Code:** Python, SQL, JavaScript, HTML
+- **AI:** LLMs, RAG, MCP, prompt engineering
+- **Data:** Power BI, Power Query, Advanced Excel
+- **Platforms:** PostgreSQL, Supabase, n8n
+- **Engineering:** Git, GitHub, Docker, WSL
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 My Growth Journey
+## Selected impact
 
-```text
-2024
- │
- │  🎓 Started BMS
- │  Business Analytics + Finance
- ▼
-2025
- │
- │  📊 Business Intelligence
- │  📈 Power BI / Analytics
- │  ⚙️ ERP Development
- ▼
-2026
- │
- │  🏢 Meal Service ERP
- │  🤖 Enterprise AI Harness
- │  ⚡ Workflow Automation
- ▼
-NOW
- │
- └──────────────► AI + Automation + ERP
-```
+These figures are outcomes reported in my resume for my **June–August 2026 AI Trainer Internship at Agribook Tech Solutions & Allied Services**. They describe professional work, not GitHub activity statistics.
 
-### Career Timeline
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>20+</h2>
+Reusable AI automation workflows
+</td>
+<td align="center" width="25%">
+<h2>93%</h2>
+Faster quotation turnaround
+</td>
+<td align="center" width="25%">
+<h2>90%</h2>
+Motor insurance lifecycle automated
+</td>
+<td align="center" width="25%">
+<h2>100+</h2>
+Email communications automated
+</td>
+</tr>
+</table>
 
-| Period       | Milestone                | Focus                              |
-| ------------ | ------------------------ | ---------------------------------- |
-| **Aug 2024** | 🎓 BMS begins            | Business Analytics + Finance       |
-| **Apr 2025** | 📊 JP Morgan Simulation  | Quantitative Research              |
-| **Jun 2025** | 📈 Infosys Certification | Business Intelligence              |
-| **Oct 2025** | 🏢 ECH Business Solution | ERP / Full Stack Development       |
-| **Feb 2026** | 🍱 Meal Service ERP      | ERP + Automation                   |
-| **Jun 2026** | 🤖 CoverKraft            | AI Harness + Automation            |
-| **Present**  | ⚡ Enterprise Automation  | AI Agents + Workflow Orchestration |
+**Quotation turnaround:** approximately 15 minutes to under 1 minute. The resume also reports automation of 15+ Excel reporting workflows and a 90% improvement in reporting accuracy.
 
-## The timeline reflects the dates and roles documented in the resume.
+---
 
-# 🚀 Growth Through Impact
+## Featured engineering work
 
-Instead of showing artificial "skill percentages", these charts show **real outcomes from projects and professional work**.
+### 1. Self-Healing Automation Harness
 
-## ⚡ Automation Impact
+**AI-assisted web automation · Insurance operations · Multi-tenant / multi-LOB design**
+
+A web automation engine built around deterministic flow-memory replay, with LLM-based repair when page selectors no longer resolve. The repository documents a Fastify API, Playwright engine, SSE live logs, tenant-specific JSON storage and local/cloud LLM failover.
+
+**Architecture at a glance**
 
 ```mermaid
-xychart-beta
-    title "Automation & Operational Impact"
-    x-axis ["Quotation Speed", "Lifecycle Automated", "Repetitive Work Reduced", "Reporting Accuracy"]
-    y-axis "Percentage (%)" 0 --> 100
-    bar [93, 90, 95, 90]
+flowchart TD
+    A[CRM / n8n / Webhook] --> B[Fastify Trigger API]
+    B --> C[Flow Memory Lookup]
+    C --> D{Known selector works?}
+    D -- Yes --> E[Playwright Execution]
+    D -- No --> F[DOM Distillation]
+    F --> G[LLM Intent Mapping]
+    G --> H[Live Selector Verification]
+    H --> I[Repair Flow Memory]
+    I --> E
+    E --> J[SSE Run Status & Logs]
 ```
 
-### What these numbers mean
+Repository: [himanshupal2005/harness](https://github.com/himanshupal2005/harness)
 
-**93%**
-Faster quotation turnaround — from approximately **15 minutes to under 1 minute**.
+### 2. Inventory ERP Module — ECH Business Solution
 
-**90%**
-Motor Insurance operational lifecycle automated.
+**Full Stack Developer Intern · October 2025 – July 2026**
 
-**95%**
-Reduction in repetitive operational effort.
+Designed and developed an inventory module using Google Apps Script, HTML, JavaScript and Google Sheets. It centralises stock movement across vendors, warehouses, sites and employees, with traceability and transaction-oriented data modelling.
 
-**90%**
-Improvement in reporting accuracy.
+### 3. Meal Service ERP System
 
-These are the quantified results stated in the CoverKraft experience section of the resume.
+**February 2026 – April 2026**
+
+A centralised meal-service operations platform covering customer lifecycle, subscriptions, payments and delivery tracking. The project also applied exploratory analysis to order patterns and customer behaviour, with dashboards to support pricing and retention decisions.
+
+### 4. Data Analytics & BI Projects
+
+Hands-on project work includes:
+
+- [Superstore data cleaning](https://github.com/himanshupal2005/Elevate_labs_01) — Excel and Power Query.
+- [Superstore dashboard insights](https://github.com/himanshupal2005/Elevate_labs_02) — category, regional and discount profitability.
+- [SQL analysis](https://github.com/himanshupal2005/Elevate_labs_03) — joins, aggregations, customer analysis and AOV.
+- [SQL business insights](https://github.com/himanshupal2005/Elevate_labs_04) — filtering, subqueries and segmentation.
+- [Python data cleaning](https://github.com/himanshupal2005/Elevate_labs_05) and [data quality analysis](https://github.com/himanshupal2005/Elevate_labs_06).
+- [Used-car market analysis](https://github.com/himanshupal2005/Elevate_labs_07) — pricing, ownership, fuel and depreciation.
+- [Job trend analysis](https://github.com/himanshupal2005/Linkedin_job_trend_analysis_project_internship) — job-posting collection and skill-demand analysis.
 
 ---
 
-# 📊 Automation Scale
+## Technology map
 
-```mermaid
-xychart-beta
-    title "Automation Scale"
-    x-axis ["Reusable Workflows", "Email Communications", "Excel Workflows"]
-    y-axis "Count" 0 --> 110
-    bar [20, 100, 15]
-```
+<div align="center">
 
-### Current Automation Footprint
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,js,html,git,github,docker,supabase" alt="Core technology icons" />
 
-| Metric                            |    Scale |
-| --------------------------------- | -------: |
-| 🔄 Reusable automation workflows  |  **20+** |
-| 📧 Automated email communications | **100+** |
-| 📊 Automated Excel workflows      |  **15+** |
+</div>
 
-The resume specifically reports 20+ reusable workflows, 100+ automated email communications, and 15+ Excel reporting workflows.
+| Area | Tools and methods |
+|---|---|
+| Programming & automation | Python, SQL, JavaScript, HTML, Google Apps Script, API integration |
+| AI & orchestration | LLMs, RAG, AI agents, prompt engineering, MCP, n8n, Claude, Antigravity, OpenClaw, NanoClaw, Hermes |
+| Analytics & BI | EDA, data cleaning, statistics, Advanced Excel, Power BI, Power Query, Looker Studio, Google Sheets |
+| Data & development | PostgreSQL, Supabase, Git, GitHub, Docker, WSL, ERP development |
 
 ---
 
-# 🧠 Technology Evolution
+## GitHub activity
 
-My development journey has progressively moved from **analytics → systems → automation → AI orchestration**.
+The following panels are live embeds generated from GitHub profile data. They are distinct from the professional impact figures above.
 
-```text
-2024
-Business Analytics
-      │
-      ▼
-2025
-BI + Data Tools
-      │
-      ▼
-ERP Development
-      │
-      ▼
-2026
-Business Automation
-      │
-      ▼
-AI Workflow Automation
-      │
-      ▼
-AI Harness + Agents
-```
+<div align="center">
 
-### Current Technology Areas
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshupal2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupal2005&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used public repository languages" />
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    TECH STACK                            │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🐍 Python                                               │
-│  ⚙️ Workflow & Business Process Automation              │
-│  🤖 Generative AI / AI Agents                            │
-│  🏢 ERP Development                                      │
-│  🔌 API Integration                                      │
-│                                                         │
-│  📊 Power BI                                             │
-│  📗 Advanced Excel / Power Query                        │
-│  📈 Google Looker Studio                                │
-│  📋 Google Sheets                                       │
-│                                                         │
-│  🔄 n8n                                                  │
-│  🧠 Claude / Antigravity / OpenClaw / NanoClaw / Hermes │
-│  🗄️ Supabase / PostgreSQL                               │
-│  🐳 Docker / WSL / Git                                  │
-│  🔗 MCP                                                  │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<br/>
 
-These technologies are based on the skills and platforms listed in the resume.
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupal2005&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupal2005&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=himanshupal2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+
+</div>
+
+<sub>These third-party widgets may occasionally be unavailable or delayed. Language charts reflect public repository code, not a measured proficiency score.</sub>
 
 ---
 
-# 🤖 Current Focus — AI Harness
+## Experience & education
 
-## CoverKraft
-
-**Harness Trainer | June 2026 — Present**
-
-Currently working on enterprise AI automation using reusable workflows and multi-agent orchestration.
-
-```text
-                    CUSTOMER
-                       │
-                       ▼
-                 DOCUMENT DATA
-                       │
-                       ▼
-               AI WORKFLOW ENGINE
-                       │
-          ┌────────────┼────────────┐
-          ▼            ▼            ▼
-      QUOTATION      KYC        COMMUNICATION
-          │            │            │
-          └────────────┼────────────┘
-                       ▼
-                POLICY PROCESSING
-                       │
-                       ▼
-                  REPORTING
-```
-
-### Impact Snapshot
-
-```text
-┌─────────────────────┬─────────────────┐
-│ Metric              │ Result          │
-├─────────────────────┼─────────────────┤
-│ Quotation Speed     │ 93% Faster      │
-│ Lifecycle Automation│ 90%             │
-│ Workflows           │ 20+             │
-│ Emails Automated    │ 100+            │
-│ Excel Workflows     │ 15+             │
-│ Repetitive Effort   │ 95% Reduced    │
-│ Reporting Accuracy  │ 90% Improved    │
-└─────────────────────┴─────────────────┘
-```
-
----
-
-# 🏢 ERP Development
-
-## ECH Business Solution
-
-**Full Stack Developer | October 2025 — June 2026**
-
-Designed and developed a custom **ERP Inventory Module** using:
-
-`Google Apps Script` · `HTML` · `JavaScript` · `Google Sheets`
-
-The system centralized inventory across vendors, warehouses, sites and employees while maintaining movement traceability.
-
-```text
-VENDORS
-   │
-   ▼
-WAREHOUSE
-   │
-   ├──────────────► SITES
-   │
-   ├──────────────► EMPLOYEES
-   │
-   ▼
-INVENTORY
-   │
-   ▼
-MOVEMENT TRACEABILITY
-   │
-   ▼
-ANALYTICS + AUTOMATION
-```
-
----
-
-# 🍱 Featured Project
-
-## Meal Service ERP System
-
-**February 2026 — April 2026**
-
-A centralized ERP system designed to manage meal-service operations from customer onboarding through delivery.
-
-```text
-CUSTOMER
-    │
-    ▼
-SUBSCRIPTION
-    │
-    ├──────► PAYMENT
-    │
-    ├──────► ORDER
-    │
-    └──────► DELIVERY
-                │
-                ▼
-          ERP DASHBOARD
-```
-
-### Core Areas
-
-* 👤 Customer lifecycle
-* 🔄 Subscription management
-* 💳 Payment management
-* 🚚 Delivery tracking
-* ⚙️ Workflow automation
-* 📊 Real-time dashboards
-* 📈 Pricing analysis
-* 🤝 CRM & after-sales support
-
----
-
-# 📊 Business Analytics
-
-My analytics background connects operational data with business decisions.
-
-```text
-RAW DATA
-   │
-   ▼
-DATA CLEANING
-   │
-   ▼
-DATA MODEL
-   │
-   ▼
-ANALYSIS
-   │
-   ▼
-DASHBOARD
-   │
-   ▼
-BUSINESS DECISION
-```
-
-### Tools
-
-`Advanced Excel` · `Power Query` · `Power BI` · `Google Looker Studio` · `Google Sheets`
-
----
-
-# 🏆 Achievements & Certifications
+| Period | Experience |
+|---|---|
+| **Jun 2026 – Aug 2026** | **AI Trainer Intern**, Agribook Tech Solutions & Allied Services — AI harness, multi-agent workflows, insurance operations and reporting automation |
+| **Oct 2025 – Jul 2026** | **Full Stack Developer Intern**, ECH Business Solution — inventory ERP, Google Apps Script, HTML, JavaScript and Google Sheets |
+| **Aug 2024 – Present** | **Bachelor of Management Studies**, Jagran Lakecity University — Business Analytics and Finance |
 
 ## Certifications
 
-| Certification                         | Organization           | Date     |
-| ------------------------------------- | ---------------------- | -------- |
-| Data Analytics                        | Deloitte               | Jan 2026 |
-| Power BI for Beginners                | Simplilearn            | Oct 2025 |
-| From Excel to Power BI                | Knowledge Accelerators | Nov 2025 |
-| Introduction to Business Intelligence | Infosys Springboard    | Jun 2025 |
-| Quantitative Research Job Simulation  | JP Morgan Chase & Co.  | Apr 2025 |
-
----
-
-# 🔥 What I'm Building Toward
-
-```text
-                BUSINESS
-                   │
-                   ▼
-            ┌──────────────┐
-            │   DATA       │
-            └──────┬───────┘
-                   │
-                   ▼
-            ┌──────────────┐
-            │   AI         │
-            └──────┬───────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │   AUTOMATION    │
-          └────────┬────────┘
-                   │
-                   ▼
-          ┌─────────────────┐
-          │  ERP / SYSTEM   │
-          └────────┬────────┘
-                   │
-                   ▼
-             REAL IMPACT
-```
-
-> **My goal is to build systems where data, AI and automation work together to solve real business problems.**
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/himanshuupal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:himanshuupal2005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- Data Analytics — Deloitte (January 2026)
+- From Excel to Power BI — Knowledge Accelerators (November 2025)
+- Power BI for Beginners — Simplilearn (October 2025)
+- Introduction to Business Intelligence — Infosys Springboard (June 2025)
+- Quantitative Research Job Simulation — JPMorgan Chase & Co. (April 2025)
 
 ---
 
 <div align="center">
 
-### `BUILD • AUTOMATE • ANALYZE • IMPROVE`
+### BUILD · AUTOMATE · ANALYZE · IMPROVE
 
 **Turning business problems into technology-driven solutions.**
+
+[Portfolio](https://himanshuupal-portfolio.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/himanshuupal) ·
+[GitHub](https://github.com/himanshupal2005)
 
 </div>
