@@ -171,6 +171,13 @@ Hands-on project work includes:
 
 The following panels are live embeds generated from GitHub profile data. They are distinct from the professional impact figures above.
 
+### Contribution calendar
+
+<div align="center">
+<img src="https://ghchart.rshah.org/7aa2f7/himanshupal2005" alt="GitHub contribution calendar for Himanshu Pal" width="100%" />
+</div>
+
+
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshupal2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
