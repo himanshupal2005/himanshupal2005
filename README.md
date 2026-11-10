@@ -16,9 +16,6 @@
 <a href="https://www.linkedin.com/in/himanshuupal">LinkedIn</a> ·
 <a href="mailto:himanshuupal2005@gmail.com">Email</a>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Domain-Business%20Analytics-2563EB?style=flat-square" />
-<img src="https://img.shields.io/badge/Build-ERP%20Systems-0F766E?style=flat-square" />
 
 </div>
 
@@ -126,7 +123,7 @@ Designed and developed an inventory module using Google Apps Script, HTML, JavaS
 
 A centralised meal-service operations platform covering customer lifecycle, subscriptions, payments and delivery tracking. The project also applied exploratory analysis to order patterns and customer behaviour, with dashboards to support pricing and retention decisions.
 
-### 5. Touchless Cursor
+### 4. Touchless Cursor
 
 **Computer vision prototype · Hands-free desktop interaction**
 
@@ -136,7 +133,7 @@ Stack listed in the portfolio: `Python` · `MediaPipe` · `OpenCV` · `PyAutoGUI
 
 Repository: [Touchless_Cursor](https://github.com/himanshupal2005/Touchless_Cursor)
 
-### 4. Data Analytics & BI Projects
+### 5. Data Analytics & BI Projects
 
 Hands-on project work includes:
 
@@ -169,35 +166,13 @@ Hands-on project work includes:
 
 ## GitHub activity
 
-The following panels are live embeds generated from GitHub profile data. They are distinct from the professional impact figures above.
-
-### Contribution calendar
-
-<div align="center">
-<img src="https://ghchart.rshah.org/7aa2f7/himanshupal2005" alt="GitHub contribution calendar for Himanshu Pal" width="100%" />
-</div>
-
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshupal2005&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupal2005&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used public repository languages" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupal2005&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupal2005&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshupal2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupal2005&hide_border=true&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true" alt="Total GitHub contributions" />
 
 </div>
 
-<sub>These third-party widgets may occasionally be unavailable or delayed. Language charts reflect public repository code, not a measured proficiency score.</sub>
+<sub>Displays the total contribution count only. This is separate from the professional impact figures above.</sub>
 
 ---
 
