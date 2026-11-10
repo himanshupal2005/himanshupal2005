@@ -126,6 +126,16 @@ Designed and developed an inventory module using Google Apps Script, HTML, JavaS
 
 A centralised meal-service operations platform covering customer lifecycle, subscriptions, payments and delivery tracking. The project also applied exploratory analysis to order patterns and customer behaviour, with dashboards to support pricing and retention decisions.
 
+### 5. Touchless Cursor
+
+**Computer vision prototype · Hands-free desktop interaction**
+
+A webcam-based prototype using hand landmarks and gesture recognition to map movements to cursor actions.
+
+Stack listed in the portfolio: `Python` · `MediaPipe` · `OpenCV` · `PyAutoGUI`
+
+Repository: [Touchless_Cursor](https://github.com/himanshupal2005/Touchless_Cursor)
+
 ### 4. Data Analytics & BI Projects
 
 Hands-on project work includes:
@@ -199,6 +209,21 @@ The following panels are live embeds generated from GitHub profile data. They ar
 - Power BI for Beginners — Simplilearn (October 2025)
 - Introduction to Business Intelligence — Infosys Springboard (June 2025)
 - Quantitative Research Job Simulation — JPMorgan Chase & Co. (April 2025)
+
+---
+
+## Additional portfolio highlights
+
+The following achievements are listed in the portfolio source and are included here as supplementary portfolio context (separate from the latest resume's certifications section).
+
+| Year | Recognition | Event / Institution |
+|---|---|---|
+| 2026 | Runner-Up — Crack the Case | Criminal Case Investigation · Jagran Lakecity University |
+| 2025 | 1st Place — Lights, Camera & Ads | Sagar Exuberance 4.0 · SISTec |
+| 2025 | Winner — Ideathon | Global Entrepreneurship Week · CII |
+| 2025 | Certificate of Distinction | TERI Green Olympiad for Youth · 96% score |
+| 2025 | Chancellor's Scholarship Award | Jagran Lakecity University |
+| 2024 | Outstanding Talent | Deltron Technologies Pvt. Ltd. |
 
 ---
 
