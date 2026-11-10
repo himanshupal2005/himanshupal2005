@@ -96,17 +96,12 @@ A web automation engine built around deterministic flow-memory replay, with LLM-
 **Architecture at a glance**
 
 ```mermaid
-flowchart TD
-    A[CRM / n8n / Webhook] --> B[Fastify Trigger API]
-    B --> C[Flow Memory Lookup]
-    C --> D{Known selector works?}
-    D -- Yes --> E[Playwright Execution]
-    D -- No --> F[DOM Distillation]
-    F --> G[LLM Intent Mapping]
-    G --> H[Live Selector Verification]
-    H --> I[Repair Flow Memory]
-    I --> E
-    E --> J[SSE Run Status & Logs]
+flowchart LR
+    A[Automation Request] --> B[Replay Saved Flow]
+    B --> C{Works?}
+    C -- Yes --> D[Complete]
+    C -- No --> E[AI Repairs Flow]
+    E --> B
 ```
 
 Repository: [himanshupal2005/harness](https://github.com/himanshupal2005/harness)
